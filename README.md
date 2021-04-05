@@ -1,2 +1,5 @@
 # Training Machine Learning
-These codes are inspired, taken, and modified from various publicly available sources
+
+**DISCLAIMER**
+These codes are inspired, taken, and MODIFIED from various publicly available sources for educational purposes.
+All credits are given to the original sources. 
