@@ -1,4 +1,4 @@
-# Training Machine Learning
+# Training in Machine Learning
 
 **DISCLAIMER**
 
