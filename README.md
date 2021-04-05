@@ -1,2 +1,1 @@
-# Training
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dada9b759d0749e7b7b9f59f08748959)](https://app.codacy.com/gh/NameAtirut/Training?utm_source=github.com&utm_medium=referral&utm_content=NameAtirut/Training&utm_campaign=Badge_Grade_Settings)
+# Training Machine Learning
