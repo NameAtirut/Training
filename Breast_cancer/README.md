@@ -1,9 +1,11 @@
 # Breast Cancer Prediction Model of >98% Accuracy
                                    based on validation on the dataset
 Dataset Source: UCI Machine Learning Repository
+
 URL: http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 Project inspired by: Vishabh Goel's Blog on Towardsdatascience
+
 URL: https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
 
 where Sklearn-based Machine Learning Models were applied.
