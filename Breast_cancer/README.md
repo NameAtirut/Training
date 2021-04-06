@@ -1,4 +1,4 @@
-# Breast Cancer Prediction Model of >98% Accuracy
+# Breast Cancer Cell Prediction Model of >98% Accuracy
                                    based on validation on the dataset
 Dataset Source: UCI Machine Learning Repository
 
