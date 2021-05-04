@@ -2,7 +2,7 @@
 
 DATASET: Keras.dataset
 
-CODES: Modified from one of the Keras examples
+CODES: Modified from https://keras.io/examples/vision/mnist_convnet/
 
 Techniques applied
 - Data Pre-processing: dimensional expansion, value scaling
